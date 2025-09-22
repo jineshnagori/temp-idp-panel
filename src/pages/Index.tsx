@@ -1,7 +1,7 @@
-import { Dashboard } from "../components/Dashboard";
+import { Portal } from "../components/Portal";
 
 const Index = () => {
-  return <Dashboard />;
+  return <Portal />;
 };
 
 export default Index;
